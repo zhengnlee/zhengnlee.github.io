@@ -10,45 +10,45 @@ header:
   caption: ""
 excerpt: "**南京巨牛设计有限公司**创立者兼主要设计师<br />园林、景观、山水"
 feature_row:
-  - image_path: core-data-summary.png
-    alt: "Core Data"
-    title: "GFCoreDataSource: 一个简单的Core Data 小封装"
-    excerpt: "This post mostly covers multilayer neural networks, giving a glimpse of modeling process and implementation in Julia. Important for understanding how more advanced methods, Deep Networks, evolved from the fundamentals of neural networks."
-    url: "/GFCoreDataSource"
+  - image_path: /6-gla garden.jpg
+    alt: ""
+    title: "Primrose Hill Garden"
+    excerpt: "A patio garden showing a hedge that creates two distinct areas with a cantilever bench on the upper sandstone garden and a bench on the lower area for private moments."
+    url: "http://homedesignlover.com/landscape-designs/landscape-design-ideas/"
     btn_label: "Learn More"
-  - image_path: https://jekyllrb.com/img/logo-2x.png
-    alt: "Hello jekyll"
-    title: "Hello jekyll"
-    excerpt: "Exploration of the latest trends in virus threats using R from virus threat database provided by Avira. Discover and visualize the data with the proper questions."
-    url: "/hello-jekyll"
+  - image_path: /12-longueville.jpg
+    alt: ""
+    title: "Garden Design Longueville"
+    excerpt: "A garden with sandstone dry packed walls and a unique sculpture for a very stunning appearance."
+    url: "http://homedesignlover.com/landscape-designs/landscape-design-ideas/"
     btn_label: "Learn More"
-  - image_path: mm-home-page-feature.jpg
-    alt: "modeling-stock-market-data-part-2"
-    title: "Featured Post: Modeling of Stock Market Data"
-    excerpt: "End to end stock data analysis project using Turkish stock market (BIST100) data. We'll be mostly using stock fundamentals in developing the model."
-    url: "/modeling-stock-market-data-part-2"
+  - image_path: /13-regents.jpg
+    alt: ""
+    title: "Regent’s Park Garden"
+    excerpt: "A garden reiterating the interior design of the house with a continued hardwood flooring from the inside."
+    url: "http://homedesignlover.com/landscape-designs/landscape-design-ideas/"
     btn_label: "Learn More"
 feature_row2:
-  - image_path: unsplash-gallery-image-2-th.jpg
+  - image_path: /garden-landscape-design-online1.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'Create a planting design in your garden landscape design. With knowledge in horticultural and ecological you can create any plants design that you want, whether you want to create tropical garden, modern garden, or traditional garden.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: unsplash-gallery-image-2-th.jpg
+  - image_path: /garden-landscape-design-software-free-mac.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'Create a planting design in your garden landscape design. With knowledge in horticultural and ecological you can create any plants design that you want, whether you want to create tropical garden, modern garden, or traditional garden.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row4:
-  - image_path: unsplash-gallery-image-2-th.jpg
+  - image_path: /garden-landscape-drawing.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    excerpt: 'Create a planting design in your garden landscape design. With knowledge in horticultural and ecological you can create any plants design that you want, whether you want to create tropical garden, modern garden, or traditional garden.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
