@@ -5,10 +5,10 @@ header:
   title: ""
   overlay_color: "#5e616c"
   overlay_image: unsplash-image-1.jpg
-  cta_label: "<i class='fa fa-github'></i> github"
-  cta_url: "https://github.com/guofengld"
+  #cta_label: "<i class='fa fa-github'></i> github"
+  #cta_url: "https://github.com/guofengld"
   caption: ""
-excerpt: "-- 深挖掘、广学习、多开源"
+excerpt: "**南京巨牛设计有限公司**创立者兼主要设计师<br />园林、景观、山水"
 feature_row:
   - image_path: core-data-summary.png
     alt: "Core Data"
@@ -56,7 +56,7 @@ feature_row4:
 github: github.com/guofengld
 
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @guofengjd](https://twitter.com/guofengjd){: .btn .btn--twitter}'
+  - excerpt: '在新浪微博上关注我 &nbsp; [<i class="fa fa-weibo"></i> @李正南](https://weibo.com/guofengjd){: .btn .btn--weibo}' 
 ---
 
 {% include feature_row id="intro" type="center" %}
